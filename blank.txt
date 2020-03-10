@@ -1,0 +1,5 @@
+git init
+git add index.html
+git commit -m "converted"
+git remote add origin https://github.com/10031623/SWF-to-HTML-converter-.git
+git push -u origin master
